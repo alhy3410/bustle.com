@@ -1,0 +1,40 @@
+body {
+  background-image: url('/images/falcon.jpg');
+  background-size: 100% 100%;
+  background-color:black;
+  background-repeat:no-repeat;
+  margin:50px;
+}
+
+.photoImages img{
+  max-width: 400px;
+  max-height: 300px;
+}
+
+.photoImages h4{
+  color:white;
+}
+
+.pageImage img{
+  max-width:800px;
+  max-height:600px;
+}
+
+.pageDisplay{
+  color:white;
+  margin:5%;
+}
+
+.container{
+  margin:10%;
+}
+
+.navbar{
+  background:white;
+  opacity:.9;
+}
+
+.carousel-inner{
+  width:70%;
+  margin: auto;
+}
