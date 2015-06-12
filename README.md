@@ -1,6 +1,7 @@
 #Author Name: Andrew Lee
 #Program Name: Bustle.com Remake
-#Description: <p>Using Ember to copy elements from bustle.com</p>
+#Description: 
+<p>Using Ember to copy elements from bustle.com</p>
 
 #Set-up instructions:
 <p>Download the file and unzip the contents</p>
